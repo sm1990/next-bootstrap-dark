@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 
 function TopNav() {
   const { resolvedTheme } = useTheme();
-  const [mounted, setMounted] = useState(false); //Mention hydraion issue and how this fixes it
+  const [mounted, setMounted] = useState(false);
   useEffect(() => setMounted(true), []);
 
   if (!mounted) {
