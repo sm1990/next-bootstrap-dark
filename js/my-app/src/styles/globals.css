@@ -1,0 +1,33 @@
+/* styles/globals.css */
+:root {
+  /* Your default theme */
+  --background: white;
+  --foreground: black;
+  --secondary-text: #212529bf;
+}
+
+[data-theme='dark'] {
+  --background: black;
+  --foreground: white;
+  --currentColor: white;
+  --secondary-text: #dee2e6bf;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+h1, h3 {
+  color: var(--foreground);
+}
+
+.text-body-secondary {
+  color: var(--secondary-text) !important;
+}
+
+.bi {
+  vertical-align: -.125em;
+  fill: currentColor;
+}
+
