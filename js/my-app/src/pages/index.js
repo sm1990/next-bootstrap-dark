@@ -17,8 +17,8 @@ const Index = () => {
         <Col lg={6} className="mx-auto">
           <p className="lead mb-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
           <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
-            <Button type="button" variant="primary" size="lg" className="px-4 gap-3">Primary button</Button>
-            <Button type="button" variant="secondary" size="lg" className="px-4">Secondary</Button>
+            <Button type="button" variant="primary" size="lg" className="px-4 gap-3">Get started</Button>
+            <Button type="button" variant="secondary" size="lg" className="px-4">Download</Button>
           </div>
         </Col>
       </div>
@@ -70,7 +70,7 @@ const Index = () => {
             <li className="nav-item"><a href="#" className="nav-link px-2 text-body-secondary">FAQs</a></li>
             <li className="nav-item"><a href="#" className="nav-link px-2 text-body-secondary">About</a></li>
           </ul>
-          <p className="text-center text-body-secondary">&copy; 2023 Company, Inc</p>
+          <p className="text-center text-body-secondary">&copy; 2023 MyApp, Inc</p>
         </footer>
       </Container>
 
