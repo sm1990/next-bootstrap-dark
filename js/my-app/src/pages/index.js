@@ -31,7 +31,7 @@ const Index = () => {
             <div className="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
               <img className="d-block mx-auto mb-4" src="images/cloud.png" alt="" width="85" height="57" />
             </div>
-            <h3 className="fs-2">Featured one</h3>
+            <h3 className="fs-2">Feature one</h3>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             <a href="#" className="icon-link">
               Learn more
@@ -41,7 +41,7 @@ const Index = () => {
             <div className="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
               <img className="d-block mx-auto mb-4" src="images/docs.png" alt="" width="72" height="57" />
             </div>
-            <h3 className="fs-2">Featured two</h3>
+            <h3 className="fs-2">Feature two</h3>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             <a href="#" className="icon-link">
               Learn more
@@ -51,7 +51,7 @@ const Index = () => {
             <div className="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
               <img className="d-block mx-auto mb-4" src="images/mail.png" alt="" width="72" height="57" />
             </div>
-            <h3 className="fs-2">Featured three</h3>
+            <h3 className="fs-2">Feature three</h3>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             <a href="#" className="icon-link">
               Learn more
